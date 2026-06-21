@@ -1,6 +1,4 @@
 # TideShip
 
-[Starship] configuration heavily inspired by [Tide] fish theme.
-
-[Starship](https://github.com/starship/starship)
-[Tide](https://github.com/IlanCosman/tide)
+[Starship](https://github.com/starship/starship) configuration heavily inspired
+by [Tide](https://github.com/IlanCosman/tide) fish theme.
