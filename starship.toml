@@ -109,7 +109,7 @@ add_newline = false
 
 continuation_prompt = "[∙](bright-black) "
 
-palette = 'tide'
+palette = "tide"
 
 [fill]
 symbol = " "
@@ -1067,3 +1067,4 @@ disabled = false
 
 
 [custom]
+
