@@ -152,6 +152,7 @@ use_os_path_sep = true
 red = "#D70000"
 green = "#5FD700"
 gray = "#444444"
+gray_alt = "#353637"
 light-gray = "#A1A1A1"
 black = "#1C1C1C"
 cyan = "#00AFFF"
